@@ -1,0 +1,13 @@
+name: python_introduction
+channels:
+  - conda-forge
+dependencies:
+  - python=3.5
+  - numpy
+  - matplotlib
+  - scipy
+  - pandas
+  - sympy=1.0
+  - rise
+  - pip:
+    - coolprop
