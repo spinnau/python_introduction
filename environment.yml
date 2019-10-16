@@ -2,6 +2,7 @@ name: python_introduction
 channels:
   - conda-forge
 dependencies:
+  - pip
   - numpy
   - matplotlib
   - scipy
